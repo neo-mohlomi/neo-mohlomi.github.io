@@ -1,7 +1,7 @@
 # MOHLOMI NEO
 **Data Scientist | Machine Learning Engineer | Data Analyst**
 
-South Africa | GitHub: [neo-mohlomi](https://github.com/neo-mohlomi) | Portfolio: [neo-mohlomi.github.io](https://neo-mohlomi.github.io) |Email :nmohlomi8@gmail.com |Contact: 0765891728
+South Africa | GitHub: [neo-mohlomi](https://github.com/neo-mohlomi) | Portfolio: [neo-mohlomi.github.io](https://neo-mohlomi.github.io) | Email :nmohlomi8@gmail.com | Contact: 0765891728
 
 ---
 
