@@ -7,7 +7,7 @@ South Africa | GitHub: [neo-mohlomi](https://github.com/neo-mohlomi) | Portfolio
 
 ## PROFESSIONAL SUMMARY
 
-Highly analytical and results-driven Data Scientist and Machine Learning specialist with a rigorous foundation in astrophysics and proven expertise in applying advanced statistical and machine learning techniques to solve complex real-world problems. Demonstrated ability to translate business challenges into actionable data-driven solutions. Advanced proficiency in classical machine learning, deep learning, reinforcement learning, and natural language processing. Passionate about leveraging data to create measurable business impact.
+I am highly analytical and results driven Data Scientist and Machine Learning specialist with a strong foundation in astrophysics and proven expertise in applying advanced statistical and machine learning techniques to solve complex real world problems. I also demonstrated ability to translate business challenges into actionable data driven solutions. Futhermore , I am profecient in classical machine learning, deep learning, reinforcement learning, and natural language processing. I am passionate about leveraging data to create measurable business impact.
 
 ---
 
@@ -25,7 +25,7 @@ Highly analytical and results-driven Data Scientist and Machine Learning special
 - **Languages**: Python, SQL
 - **Data Manipulation**: Pandas, NumPy, Scikit-learn
 - **Deep Learning**: TensorFlow, Keras
-- **Visualization**: Matplotlib, Seaborn, Plotly
+- **Visualization**: Matplotlib, Power BI
 - **Tools & Platforms**: Jupyter Notebook, Git/GitHub, scikit-learn
 - **Domain**: Astronomical Data Analysis, Large Dataset Processing
 
@@ -45,10 +45,10 @@ Highly analytical and results-driven Data Scientist and Machine Learning special
 
 **Project: Cosmic Radiation Analysis for Underground Laboratory Location Optimization**
 
-Conducted comprehensive practical data analysis on cosmic radiation measurements to identify the optimal location for a proposed underground particle physics laboratory beneath the Paarl Hugenoot Tunnel.
+I conducted comprehensive practical data analysis on cosmic radiation measurements to identify the optimal location for a proposed underground particle physics laboratory beneath the Paarl Hugenoot Tunnel.
 
 **Key Contributions:**
-- **Statistical Modeling of Particle Behavior**: Developed sophisticated statistical models to understand and characterize muon particle behavior within the tunnel environment
+- **Statistical Modeling of Particle Behavior**: Developed statistical models to understand and characterize muon particle behavior within the tunnel environment
 - **Rigorous Data Analysis**: Applied advanced signal processing and statistical techniques to analyze cosmic radiation flux variations across multiple tunnel locations
 - **Hypothesis Testing**: Performed comprehensive probability distribution analysis and hypothesis testing to identify statistically significant radiation patterns
 - **Quantitative Site Evaluation**: Analyzed muon flux density, energy spectra, and temporal variations to determine optimal underground lab placement
@@ -67,9 +67,9 @@ Conducted comprehensive practical data analysis on cosmic radiation measurements
 Built production-ready Apriori algorithm implementation to discover product association patterns in transactional data. 
 
 **Key Highlights:**
-- Identified strong association rules (support, confidence, lift metrics)
-- Recommended product bundles and cross-selling strategies
-- Demonstrated practical understanding of transactional data mining
+- I identified strong association rules (support, confidence, lift metrics)
+- Then recommended product bundles and cross-selling strategies
+- I demonstrated practical understanding of transactional data mining
 - Direct business application for promotional optimization and revenue enhancement
 - Skills: Association rule mining, market insights generation, business strategy support
 
@@ -79,9 +79,9 @@ Built production-ready Apriori algorithm implementation to discover product asso
 Developed K-Means clustering model to classify mall customers into meaningful behavioral and demographic segments.
 
 **Key Highlights:**
-- Identified optimal cluster count using elbow method
-- Generated actionable customer personas
-- Enabled targeted marketing strategies and customer-specific campaigns
+- I identified optimal cluster count using elbow method
+- I generated actionable customer personas
+- I enabled targeted marketing strategies and customer-specific campaigns
 - Scalable approach for large-scale customer databases
 - Business impact: Improved marketing ROI through targeted segmentation
 
@@ -91,10 +91,10 @@ Developed K-Means clustering model to classify mall customers into meaningful be
 Implemented Hierarchical Clustering approach for customer segmentation, providing interpretable dendrograms and detailed segment hierarchies.
 
 **Key Highlights:**
-- Created hierarchical cluster dendrograms for visual interpretation
-- Compared algorithmic trade-offs (K-Means scalability vs. Hierarchical interpretability)
-- Provided detailed cluster characteristics and customer segment profiles
-- Supported strategic business decision-making with actionable insights
+- I created hierarchical cluster dendrograms for visual interpretation
+- I then compared algorithmic trade-offs (K-Means scalability vs. Hierarchical interpretability)
+- I provided detailed cluster characteristics and customer segment profiles
+- I supported strategic business decision-making with actionable insights
 
 ### 4. Customer Purchase Prediction - K-Nearest Neighbors
 **Repository**: [Predicting-whether-or-not-a-customer-will-buy-a-car-using-KNN](https://github.com/neo-mohlomi/Predicting-whether-or-not-a-customer-will-buy-a-car-using-KNN)
@@ -102,10 +102,10 @@ Implemented Hierarchical Clustering approach for customer segmentation, providin
 Built KNN classification model to predict customer car purchase likelihood based on age and salary.
 
 **Key Highlights:**
-- Performed data preprocessing, feature scaling, and exploratory analysis
+- I performed data preprocessing, feature scaling, and exploratory analysis
 - Implemented KNN with optimal k-value selection
-- Compared performance against Logistic Regression
-- Evaluated precision, recall, and ROC curves
+- Then compared performance against Logistic Regression
+- I evaluated precision, recall
 - Business application: High-probability customer identification for targeted sales campaigns
 
 ### 5. Customer Purchase Prediction - Logistic Regression
@@ -114,15 +114,15 @@ Built KNN classification model to predict customer car purchase likelihood based
 Developed Logistic Regression model for customer purchase prediction with interpretable probability estimates.
 
 **Key Highlights:**
-- Built probabilistic classification model with clear decision boundaries
+- I built probabilistic classification model with clear decision boundaries
 - Optimized business metrics: reduced wasted advertising spend, improved targeting efficiency
-- Provided probability thresholds for marketing decision-making
-- Comparative analysis against other algorithms
+- I then provided probability thresholds for marketing decision-making
+- I did comparative analysis against other algorithms
 
 ### 6. Employee Salary Prediction - Support Vector Regression
 **Repository**: [Predicting-employee-salaries-using-SVR](https://github.com/neo-mohlomi/Predicting-employee-salaries-using-SVR)
 
-Implemented Support Vector Regression model for employee salary prediction with advanced hyperparameter optimization.
+I implemented Support Vector Regression model for employee salary prediction with advanced hyperparameter optimization.
 
 **Key Highlights:**
 - Applied kernel tricks for non-linear relationship modeling
@@ -133,7 +133,7 @@ Implemented Support Vector Regression model for employee salary prediction with 
 ### 7. Employee Salary Prediction - Linear Regression
 **Repository**: [Salary-Prediction-Simple-Linear-Regression](https://github.com/neo-mohlomi/Salary-Prediction-Simple-Linear-Regression-)
 
-Built simple linear regression model for straightforward salary-experience relationship analysis.
+I built simple linear regression model for straightforward salary-experience relationship analysis.
 
 **Key Highlights:**
 - Baseline performance comparison
@@ -149,20 +149,20 @@ Built simple linear regression model for straightforward salary-experience relat
 **University of the Western Cape** | Cape Town, South Africa
 - Advanced coursework in observational and theoretical astrophysics
 - Strong foundation in statistical methods and scientific computing
-- Research focus on data-intensive astronomical phenomena
+- Research focus on the downturn observed in the Baryonic Tully Fisher Relation
 
 ### Honours Degree in Astrophysics ✓
 **University of the Western Cape** | Cape Town, South Africa
 
 **Honours Project - Galaxy Rotational Dynamics Analysis**
-- Analyzed extensive ALFALFA (Arecibo L-band Feed Array) astronomical survey data
-- Applied statistical analysis techniques to understand galactic kinematics
+- I analyzed extensive ALFALFA (Arecibo L-band Feed Array) astronomical survey data
+- I applied statistical analysis techniques to understand galactic kinematics
 - Processed and visualized large astronomical datasets
 - Demonstrated proficiency in handling complex scientific data
 
 **Machine Learning Project - Supernova Classification**
-- Built K-Nearest Neighbors machine learning model to classify supernova types
-- Applied machine learning to astronomical classification problems
+- I built K-Nearest Neighbors machine learning model to classify supernova types
+- I applied machine learning to astronomical classification problems
 - Compared algorithm performance and evaluated classification accuracy
 - Bridge project connecting astrophysics domain expertise with machine learning
 
@@ -181,8 +181,8 @@ Hypothesis Testing, Probability Distributions, Regression Analysis, Signal Proce
 - **Data Processing**: Pandas, NumPy, data cleaning and preprocessing
 - **Machine Learning**: scikit-learn, model development and evaluation
 - **Deep Learning**: TensorFlow, Keras
-- **Visualization**: Matplotlib, Seaborn, Plotly, data storytelling
-- **Development**: Jupyter Notebook, Git/GitHub, version control
+- **Visualization**: Matplotlib, Power BI, data storytelling
+- **Development**: Jupyter Notebook, Git/GitHub
 - **Domain Tools**: Astronomical data analysis tools, signal processing libraries
 
 ### Core Data Science Competencies
@@ -250,14 +250,6 @@ Hypothesis Testing, Probability Distributions, Regression Analysis, Signal Proce
 - Statistical Modeling & Causal Inference
 - Data-Driven Business Strategy
 - Scientific Computing & Astrophysical Data Analysis
-
----
-
-## LANGUAGES & CERTIFICATIONS
-
-**Languages**: English (Fluent), Afrikaans (Conversational)
-
-**Continuous Learning**: Regular engagement with latest ML/AI research and tools; active GitHub portfolio of practical ML projects
 
 ---
 
